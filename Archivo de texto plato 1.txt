@@ -1,1 +1,2 @@
 Este es el comienzo del proyecto.
+Cambios desde feature_2.
